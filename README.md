@@ -9,6 +9,7 @@ To recover the files you just have to copy them and decrypt them with the decode
 
 #####
 ######
+thank to mdrasmus ( https://github.com/mdrasmus/ )
 ###### I am not guilty of actions done with this program. #####
  ###### any suggestion to saturnXIII@proton.me #####
 ######
