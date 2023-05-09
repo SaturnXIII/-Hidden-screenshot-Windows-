@@ -1,0 +1,1 @@
+[System.Convert]::ToBase64String([System.IO.File]::ReadAllBytes($args[0])) | Out-File -Encoding utf8 -FilePath ($args[0] -replace '\.png$', '.b64')
