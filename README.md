@@ -20,12 +20,11 @@ For decrypt move execute-decode.bat and decode.ps1 to the target folder and run 
 #####
 ######
 thank to mdrasmus ( https://github.com/mdrasmus/ )
-###### I am not guilty of actions done with this program. #####
- ###### any suggestion to saturnXIII@proton.me #####
-######
-###### put to good use #####
-╭∩╮(-_-)╭∩╮
-######
+
+
+
+> This project is for educational and ethical purposes only. Any illegal or malicious use is strictly prohibited.
+The author assumes no responsibility for any misuse. Use only in controlled environments and with proper authorization. 
 
 
 ![image](https://user-images.githubusercontent.com/103066353/167156636-3eb61b59-4d15-4845-b534-db2e4321f745.png)
